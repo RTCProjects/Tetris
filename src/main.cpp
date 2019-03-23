@@ -224,7 +224,7 @@ CGame::Draw(cairo_t *cr)
 }
 
 void 
-CGame::Update()
+CGame::Update() 
 {
     //mtx.lock(); 
         //update gamelogic
